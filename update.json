@@ -3,8 +3,8 @@
   "versionCode": 2,
   "versionName": "1.1",
   "apkSize": 15.3,
-  "mandatory": false,
-  "enabledDark": false,
+  "mandatory": true,
+  "enabledDark": true,
   "apkUrlNow": "https://example.com/myapp_v1.1.apk",
   "apkUrlBrowser": "https://example.com/myapp_download",
   "whatisNew": [
