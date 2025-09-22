@@ -1,1 +1,15 @@
-
+{
+  "title": "Tupai Drama",
+  "versionCode": 278,
+  "versionName": "1.2.78",
+  "apkSize": 68,
+  "mandatory": true,
+  "enabledDark": false,
+  "apkUrlBrowser": "https://example.com/myapp_download",
+  "whatisNew": [
+    "Perbaikan bug dan peningkatan kinerja aplikasi"
+  ],
+  "releaseDate": "2025-09-22",
+  "logoUrl": "https://raw.githubusercontent.com/orcaplus/png/refs/heads/main/tupai.png",
+  "showLogo": true
+}
