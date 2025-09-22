@@ -1,8 +1,8 @@
 {
-  "title": "My App",
-  "versionCode": 2,
-  "versionName": "1.1",
-  "apkSize": 15.3,
+  "title": "Tupai Drama",
+  "versionCode": 280,
+  "versionName": "1.2.80",
+  "apkSize": 64.50,
   "mandatory": true,
   "enabledDark": true,
   "apkUrlBrowser": "https://example.com/myapp_download",
