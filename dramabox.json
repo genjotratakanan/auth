@@ -1,0 +1,17 @@
+{
+  "title": "DramaBox",
+  "versionCode": 452,
+  "versionName": "4.5.2",
+  "apkSize": 58,
+  "mandatory": true,
+  "enabledDark": true,
+  "apkUrlBrowser": "https://example.com/myapp_download",
+  "whatisNew": [
+    "Fix bug on login",
+    "Improve performance",
+    "Add dark mode option"
+  ],
+  "releaseDate": "2025-09-22",
+  "logoUrl": "https://raw.githubusercontent.com/orcaplus/png/refs/heads/main/tupai.png",
+  "showLogo": true
+}
