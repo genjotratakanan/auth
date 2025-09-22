@@ -1,0 +1,18 @@
+{
+  "title": "My App",
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apkSize": 15.3,
+  "mandatory": false,
+  "enabledDark": false,
+  "apkUrlNow": "https://example.com/myapp_v1.1.apk",
+  "apkUrlBrowser": "https://example.com/myapp_download",
+  "whatisNew": [
+    "Fix bug on login",
+    "Improve performance",
+    "Add dark mode option"
+  ],
+  "releaseDate": "2025-09-22",
+  "logoUrl": "https://i.imgur.com/BoN9kdC.png",
+  "showLogo": true
+}
