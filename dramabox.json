@@ -3,7 +3,7 @@
   "versionCode": 452,
   "versionName": "4.5.2",
   "apkSize": 58,
-  "mandatory": false,
+  "mandatory": true,
   "enabledDark": false,
   "apkUrlBrowser": "https://example.com/myapp_download",
   "whatisNew": [
