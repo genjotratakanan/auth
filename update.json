@@ -5,7 +5,6 @@
   "apkSize": 15.3,
   "mandatory": true,
   "enabledDark": true,
-  "apkUrlNow": "https://example.com/myapp_v1.1.apk",
   "apkUrlBrowser": "https://example.com/myapp_download",
   "whatisNew": [
     "Fix bug on login",
