@@ -4,7 +4,7 @@
   "versionName": "25.2.8",
   "apkSize": 200,
   "mandatory": true,
-  "enabledDark": false,
+  "enabledDark": true,
   "apkUrlBrowser": "https://example.com/myapp_download",
   "whatisNew": [
     "Perbaikan bug dan peningkatan kinerja aplikasi"
