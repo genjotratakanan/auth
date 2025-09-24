@@ -5,11 +5,11 @@
   "apkSize": 27,
   "mandatory": true,
   "enabledDark": false,
-  "apkUrlBrowser": "https://example.com/myapp_download",
+  "apkUrlBrowser": "https://apkadmin.com/3x5lqb1hxrfn/orcaplus_1.2.77.apk.html",
   "whatisNew": [
     "Perbaikan dan peningkatan Donghua"
   ],
-  "releaseDate": "2025-09-22",
+  "releaseDate": "2025-09-24",
   "logoUrl": "https://raw.githubusercontent.com/orcaplus/png/refs/heads/main/tupai.png",
   "showLogo": true
 }
