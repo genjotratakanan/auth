@@ -4,7 +4,7 @@
   "versionName": "4.4.2",
   "apkSize": 58,
   "mandatory": true,
-  "enabledDark": false,
+  "enabledDark": true,
   "apkUrlBrowser": "https://example.com/myapp_download",
   "whatisNew": [
     "Added many popular dramas",
