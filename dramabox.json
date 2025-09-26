@@ -3,8 +3,8 @@
   "versionCode": 442,
   "versionName": "4.4.2",
   "apkSize": 58,
-  "mandatory": true,
-  "enabledDark": true,
+  "mandatory": false,
+  "enabledDark": false,
   "apkUrlBrowser": "https://example.com/myapp_download",
   "whatisNew": [
     "Added many popular dramas",
