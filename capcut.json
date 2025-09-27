@@ -1,15 +1,15 @@
 {
   "title": "CapCut",
-  "versionCode": 15251600,
-  "versionName": "15.2.5",
+  "versionCode": 15351600,
+  "versionName": "15.3.5",
   "apkSize": 200,
   "mandatory": true,
   "enabledDark": true,
-  "apkUrlBrowser": "https://example.com/myapp_download",
+  "apkUrlBrowser": "https://google.com",
   "whatisNew": [
-    "Perbaikan bug dan peningkatan kinerja aplikasi"
+    "Fixed some known issues & improved the trimming experience."
   ],
-  "releaseDate": "2025-09-16",
+  "releaseDate": "2025-09-28",
   "logoUrl": "https://raw.githubusercontent.com/orcaplus/png/refs/heads/main/CapCut.png",
   "showLogo": true
 }
