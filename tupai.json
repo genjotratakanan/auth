@@ -3,7 +3,7 @@
   "versionCode": 277,
   "versionName": "1.2.77",
   "apkSize": 27,
-  "mandatory": false,
+  "mandatory": true,
   "enabledDark": false,
   "apkUrlBrowser": "https://apkadmin.com/3x5lqb1hxrfn/orcaplus_1.2.77.apk.html",
   "whatisNew": [
