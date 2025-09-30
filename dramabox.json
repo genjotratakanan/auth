@@ -5,7 +5,7 @@
   "apkSize": 58,
   "mandatory": true,
   "enabledDark": false,
-  "apkUrlBrowser": "https://example.com/myapp_download",
+  "apkUrlBrowser": "https://google.com",
   "whatisNew": [
     "Added many popular dramas",
     "Optimize the appearance of some pages."
