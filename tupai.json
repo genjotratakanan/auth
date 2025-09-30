@@ -1,13 +1,14 @@
 {
   "title": "Tupai Drama",
-  "versionCode": 277,
-  "versionName": "1.2.77",
+  "versionCode": 279,
+  "versionName": "1.2.79",
   "apkSize": 27,
   "mandatory": true,
   "enabledDark": false,
   "apkUrlBrowser": "https://google.com",
   "whatisNew": [
-    "Perbaikan dan peningkatan Donghua"
+    "Fitur Komentar (untuk drama)",
+    "Perbaikan Download"
   ],
   "releaseDate": "2025-09-24",
   "logoUrl": "https://raw.githubusercontent.com/orcaplus/png/refs/heads/main/tupai.png",
