@@ -1,7 +1,7 @@
 {
   "title": "DramaBox",
-  "versionCode": 442,
-  "versionName": "4.4.2",
+  "versionCode": 451,
+  "versionName": "4.5.1",
   "apkSize": 58,
   "mandatory": true,
   "enabledDark": false,
@@ -10,7 +10,7 @@
     "Added many popular dramas",
     "Optimize the appearance of some pages."
   ],
-  "releaseDate": "2025-09-22",
+  "releaseDate": "2025-09-30",
   "logoUrl": "https://raw.githubusercontent.com/orcaplus/png/refs/heads/main/DramaBox.png",
   "showLogo": true
 }
