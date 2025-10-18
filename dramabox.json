@@ -3,8 +3,8 @@
   "versionCode": 460,
   "versionName": "4.6.0",
   "apkSize": 58,
-  "mandatory": false,
-  "enabledDark": false,
+  "mandatory": true,
+  "enabledDark": true,
   "apkUrlBrowser": "https://whatsapp.com/channel/0029VaCesHrGk1Fman9GSx1l",
   "whatisNew": [
     "Added many popular dramas.",
