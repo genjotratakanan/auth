@@ -3,7 +3,7 @@
   "versionCode": 460,
   "versionName": "4.6.0",
   "apkSize": 58,
-  "mandatory": true,
+  "mandatory": false,
   "enabledDark": false,
   "apkUrlBrowser": "https://go.paid4link.com/SZN3f",
   "whatisNew": [
