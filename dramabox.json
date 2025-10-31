@@ -3,7 +3,7 @@
   "versionCode": 461,
   "versionName": "4.6.1",
   "apkSize": 58.1,
-  "mandatory": true,
+  "mandatory": false,
   "enabledDark": true,
   "apkUrlBrowser": "https://whatsapp.com/channel/0029VaCesHrGk1Fman9GSx1l",
   "whatisNew": [
