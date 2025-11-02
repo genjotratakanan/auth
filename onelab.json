@@ -7,7 +7,7 @@
   "enabledDark": true,
   "apkUrlBrowser": "https://google.com",
   "whatisNew": [
-    "Quick Looks for Voronoi Noise effect"
+    "Quick Looks for Voronoi Noise effect",
     "Changed the scaling X/Y and coverage icons",
     "Reduced default SunBeam scale",
     "Stability improvements"
