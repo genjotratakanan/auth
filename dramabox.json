@@ -1,9 +1,9 @@
 {
   "title": "DramaBox",
-  "versionCode": 461,
-  "versionName": "4.6.1",
-  "apkSize": 58.1,
-  "mandatory": false,
+  "versionCode": 470,
+  "versionName": "4.7.0",
+  "apkSize": 57,
+  "mandatory": true,
   "enabledDark": true,
   "apkUrlBrowser": "https://whatsapp.com/channel/0029VaCesHrGk1Fman9GSx1l",
   "whatisNew": [
