@@ -3,7 +3,7 @@
   "versionCode": 105,
   "versionName": "1.2.9",
   "apkSize": 7.38,
-  "mandatory": false,
+  "mandatory": true,
   "enabledDark": true,
   "apkUrlBrowser": "https://sfl.gl/NzEP",
   "whatisNew": [
