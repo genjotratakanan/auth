@@ -1,1 +1,19 @@
+{
+  "title": "OneLab",
+  "versionCode": 105,
+  "versionName": "1.2.9",
+  "apkSize": 7.38,
+  "mandatory": true,
+  "enabledDark": true,
+  "apkUrlBrowser": "https://google.com",
+  "whatisNew": [
+    "Quick Looks for Voronoi Noise effect"
+    "Changed the scaling X/Y and coverage icons"
+    "Reduced default SunBeam scale"
+    "Stability improvements"
+  ],
+  "releaseDate": "2025-11-02",
+  "logoUrl": "https://raw.githubusercontent.com/orcaplus/png/refs/heads/main/onelab_icon.png",
+  "showLogo": true
+}
 
