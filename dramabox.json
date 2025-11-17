@@ -2,14 +2,14 @@
   "title": "DramaBox",
   "versionCode": 481,
   "versionName": "4.8.1",
-  "apkSize": 61,
+  "apkSize": 61.5,
   "mandatory": true,
   "enabledDark": true,
   "apkUrlBrowser": "https://whatsapp.com/channel/0029VaCesHrGk1Fman9GSx1l",
   "whatisNew": [
     "Added many popular dramas.",
     "Optimize the appearance of some pages.",
-    "On The Way"
+    "You can Download Now"
   ],
   "releaseDate": "2025-11-17",
   "logoUrl": "https://raw.githubusercontent.com/orcaplus/png/refs/heads/main/DramaBox.png",
