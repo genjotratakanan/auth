@@ -1,17 +1,1 @@
-{
-  "title": "AllDialog",
-  "versionCode": 2,
-  "versionName": "2.0",
-  "apkSize": 27,
-  "mandatory": false,
-  "enabledDark": false,
-  "apkUrlBrowser": "https://google.com",
-  "whatisNew": [
-    "Test 1 2 3",
-    "Perbaikan Cobaan"
-  ],
-  "releaseDate": "2025-09-24",
-  "logoUrl": "https://raw.githubusercontent.com/orcaplus/png/refs/heads/main/tupai.png",
-  "showLogo": true
-}
 
