@@ -1,301 +1,901 @@
 {
-  "DEVICE0001": {
+  "LOKLOK": {
     "nama_user": "User 1",
     "device_id": "DEVICE0001",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0002": {
+  "LOKLOK2": {
     "nama_user": "User 2",
     "device_id": "DEVICE0002",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0003": {
+  "LOKLOK3": {
     "nama_user": "User 3",
     "device_id": "DEVICE0003",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0004": {
+  "LOKLOK4": {
     "nama_user": "User 4",
     "device_id": "DEVICE0004",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0005": {
+  "LOKLOK5": {
     "nama_user": "User 5",
     "device_id": "DEVICE0005",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0006": {
+  "LOKLOK6": {
     "nama_user": "User 6",
     "device_id": "DEVICE0006",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0007": {
+  "LOKLOK7": {
     "nama_user": "User 7",
     "device_id": "DEVICE0007",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0008": {
+  "LOKLOK8": {
     "nama_user": "User 8",
     "device_id": "DEVICE0008",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0009": {
+  "LOKLOK9": {
     "nama_user": "User 9",
     "device_id": "DEVICE0009",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0010": {
+  "LOKLOK10": {
     "nama_user": "User 10",
     "device_id": "DEVICE0010",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0011": {
+  "LOKLOK11": {
     "nama_user": "User 11",
     "device_id": "DEVICE0011",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0012": {
+  "LOKLOK12": {
     "nama_user": "User 12",
     "device_id": "DEVICE0012",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0013": {
+  "LOKLOK13": {
     "nama_user": "User 13",
     "device_id": "DEVICE0013",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0014": {
+  "LOKLOK14": {
     "nama_user": "User 14",
     "device_id": "DEVICE0014",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0015": {
+  "LOKLOK15": {
     "nama_user": "User 15",
     "device_id": "DEVICE0015",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0016": {
+  "LOKLOK16": {
     "nama_user": "User 16",
     "device_id": "DEVICE0016",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0017": {
+  "LOKLOK17": {
     "nama_user": "User 17",
     "device_id": "DEVICE0017",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0018": {
+  "LOKLOK18": {
     "nama_user": "User 18",
     "device_id": "DEVICE0018",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0019": {
+  "LOKLOK19": {
     "nama_user": "User 19",
     "device_id": "DEVICE0019",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0020": {
+  "LOKLOK20": {
     "nama_user": "User 20",
     "device_id": "DEVICE0020",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0021": {
+  "LOKLOK21": {
     "nama_user": "User 21",
     "device_id": "DEVICE0021",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0022": {
+  "LOKLOK22": {
     "nama_user": "User 22",
     "device_id": "DEVICE0022",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0023": {
+  "LOKLOK23": {
     "nama_user": "User 23",
     "device_id": "DEVICE0023",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0024": {
+  "LOKLOK24": {
     "nama_user": "User 24",
     "device_id": "DEVICE0024",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0025": {
+  "LOKLOK25": {
     "nama_user": "User 25",
     "device_id": "DEVICE0025",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0026": {
+  "LOKLOK26": {
     "nama_user": "User 26",
     "device_id": "DEVICE0026",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0027": {
+  "LOKLOK27": {
     "nama_user": "User 27",
     "device_id": "DEVICE0027",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0028": {
+  "LOKLOK28": {
     "nama_user": "User 28",
     "device_id": "DEVICE0028",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0029": {
+  "LOKLOK29": {
     "nama_user": "User 29",
     "device_id": "DEVICE0029",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0030": {
+  "LOKLOK30": {
     "nama_user": "User 30",
     "device_id": "DEVICE0030",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0031": {
+  "LOKLOK31": {
     "nama_user": "User 31",
     "device_id": "DEVICE0031",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0032": {
+  "LOKLOK32": {
     "nama_user": "User 32",
     "device_id": "DEVICE0032",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0033": {
+  "LOKLOK33": {
     "nama_user": "User 33",
     "device_id": "DEVICE0033",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0034": {
+  "LOKLOK34": {
     "nama_user": "User 34",
     "device_id": "DEVICE0034",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0035": {
+  "LOKLOK35": {
     "nama_user": "User 35",
     "device_id": "DEVICE0035",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0036": {
+  "LOKLOK36": {
     "nama_user": "User 36",
     "device_id": "DEVICE0036",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0037": {
+  "LOKLOK37": {
     "nama_user": "User 37",
     "device_id": "DEVICE0037",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0038": {
+  "LOKLOK38": {
     "nama_user": "User 38",
     "device_id": "DEVICE0038",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0039": {
+  "LOKLOK39": {
     "nama_user": "User 39",
     "device_id": "DEVICE0039",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0040": {
+  "LOKLOK40": {
     "nama_user": "User 40",
     "device_id": "DEVICE0040",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0041": {
+  "LOKLOK41": {
     "nama_user": "User 41",
     "device_id": "DEVICE0041",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0042": {
+  "LOKLOK42": {
     "nama_user": "User 42",
     "device_id": "DEVICE0042",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0043": {
+  "LOKLOK43": {
     "nama_user": "User 43",
     "device_id": "DEVICE0043",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0044": {
+  "LOKLOK44": {
     "nama_user": "User 44",
     "device_id": "DEVICE0044",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0045": {
+  "LOKLOK45": {
     "nama_user": "User 45",
     "device_id": "DEVICE0045",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0046": {
+  "LOKLOK46": {
     "nama_user": "User 46",
     "device_id": "DEVICE0046",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0047": {
+  "LOKLOK47": {
     "nama_user": "User 47",
     "device_id": "DEVICE0047",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0048": {
+  "LOKLOK48": {
     "nama_user": "User 48",
     "device_id": "DEVICE0048",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0049": {
+  "LOKLOK49": {
     "nama_user": "User 49",
     "device_id": "DEVICE0049",
     "expired": "permanen",
     "broadcast": ""
   },
-  "DEVICE0050": {
+  "LOKLOK50": {
     "nama_user": "User 50",
     "device_id": "DEVICE0050",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV": {
+    "nama_user": "User R1",
+    "device_id": "RDEVICE001",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV2": {
+    "nama_user": "User R2",
+    "device_id": "RDEVICE002",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV3": {
+    "nama_user": "User R3",
+    "device_id": "RDEVICE003",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV4": {
+    "nama_user": "User R4",
+    "device_id": "RDEVICE004",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV5": {
+    "nama_user": "User R5",
+    "device_id": "RDEVICE005",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV6": {
+    "nama_user": "User R6",
+    "device_id": "RDEVICE006",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV7": {
+    "nama_user": "User R7",
+    "device_id": "RDEVICE007",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV8": {
+    "nama_user": "User R8",
+    "device_id": "RDEVICE008",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV9": {
+    "nama_user": "User R9",
+    "device_id": "RDEVICE009",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV10": {
+    "nama_user": "User R10",
+    "device_id": "RDEVICE010",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV11": {
+    "nama_user": "User R11",
+    "device_id": "RDEVICE011",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV12": {
+    "nama_user": "User R12",
+    "device_id": "RDEVICE012",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV13": {
+    "nama_user": "User R13",
+    "device_id": "RDEVICE013",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV14": {
+    "nama_user": "User R14",
+    "device_id": "RDEVICE014",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV15": {
+    "nama_user": "User R15",
+    "device_id": "RDEVICE015",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV16": {
+    "nama_user": "User R16",
+    "device_id": "RDEVICE016",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV17": {
+    "nama_user": "User R17",
+    "device_id": "RDEVICE017",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV18": {
+    "nama_user": "User R18",
+    "device_id": "RDEVICE018",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV19": {
+    "nama_user": "User R19",
+    "device_id": "RDEVICE019",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV20": {
+    "nama_user": "User R20",
+    "device_id": "RDEVICE020",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV21": {
+    "nama_user": "User R21",
+    "device_id": "RDEVICE021",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV22": {
+    "nama_user": "User R22",
+    "device_id": "RDEVICE022",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV23": {
+    "nama_user": "User R23",
+    "device_id": "RDEVICE023",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV24": {
+    "nama_user": "User R24",
+    "device_id": "RDEVICE024",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV25": {
+    "nama_user": "User R25",
+    "device_id": "RDEVICE025",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV26": {
+    "nama_user": "User R26",
+    "device_id": "RDEVICE026",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV27": {
+    "nama_user": "User R27",
+    "device_id": "RDEVICE027",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV28": {
+    "nama_user": "User R28",
+    "device_id": "RDEVICE028",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV29": {
+    "nama_user": "User R29",
+    "device_id": "RDEVICE029",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV30": {
+    "nama_user": "User R30",
+    "device_id": "RDEVICE030",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV31": {
+    "nama_user": "User R31",
+    "device_id": "RDEVICE031",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV32": {
+    "nama_user": "User R32",
+    "device_id": "RDEVICE032",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV33": {
+    "nama_user": "User R33",
+    "device_id": "RDEVICE033",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV34": {
+    "nama_user": "User R34",
+    "device_id": "RDEVICE034",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV35": {
+    "nama_user": "User R35",
+    "device_id": "RDEVICE035",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV36": {
+    "nama_user": "User R36",
+    "device_id": "RDEVICE036",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV37": {
+    "nama_user": "User R37",
+    "device_id": "RDEVICE037",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV38": {
+    "nama_user": "User R38",
+    "device_id": "RDEVICE038",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV39": {
+    "nama_user": "User R39",
+    "device_id": "RDEVICE039",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV40": {
+    "nama_user": "User R40",
+    "device_id": "RDEVICE040",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV41": {
+    "nama_user": "User R41",
+    "device_id": "RDEVICE041",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV42": {
+    "nama_user": "User R42",
+    "device_id": "RDEVICE042",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV43": {
+    "nama_user": "User R43",
+    "device_id": "RDEVICE043",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV44": {
+    "nama_user": "User R44",
+    "device_id": "RDEVICE044",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV45": {
+    "nama_user": "User R45",
+    "device_id": "RDEVICE045",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV46": {
+    "nama_user": "User R46",
+    "device_id": "RDEVICE046",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV47": {
+    "nama_user": "User R47",
+    "device_id": "RDEVICE047",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV48": {
+    "nama_user": "User R48",
+    "device_id": "RDEVICE048",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV49": {
+    "nama_user": "User R49",
+    "device_id": "RDEVICE049",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "ROOKTV50": {
+    "nama_user": "User R50",
+    "device_id": "RDEVICE050",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV": {
+    "nama_user": "User H1",
+    "device_id": "HDEVICE001",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV2": {
+    "nama_user": "User H2",
+    "device_id": "HDEVICE002",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV3": {
+    "nama_user": "User H3",
+    "device_id": "HDEVICE003",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV4": {
+    "nama_user": "User H4",
+    "device_id": "HDEVICE004",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV5": {
+    "nama_user": "User H5",
+    "device_id": "HDEVICE005",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV6": {
+    "nama_user": "User H6",
+    "device_id": "HDEVICE006",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV7": {
+    "nama_user": "User H7",
+    "device_id": "HDEVICE007",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV8": {
+    "nama_user": "User H8",
+    "device_id": "HDEVICE008",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV9": {
+    "nama_user": "User H9",
+    "device_id": "HDEVICE009",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV10": {
+    "nama_user": "User H10",
+    "device_id": "HDEVICE010",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV11": {
+    "nama_user": "User H11",
+    "device_id": "HDEVICE011",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV12": {
+    "nama_user": "User H12",
+    "device_id": "HDEVICE012",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV13": {
+    "nama_user": "User H13",
+    "device_id": "HDEVICE013",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV14": {
+    "nama_user": "User H14",
+    "device_id": "HDEVICE014",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV15": {
+    "nama_user": "User H15",
+    "device_id": "HDEVICE015",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV16": {
+    "nama_user": "User H16",
+    "device_id": "HDEVICE016",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV17": {
+    "nama_user": "User H17",
+    "device_id": "HDEVICE017",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV18": {
+    "nama_user": "User H18",
+    "device_id": "HDEVICE018",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV19": {
+    "nama_user": "User H19",
+    "device_id": "HDEVICE019",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV20": {
+    "nama_user": "User H20",
+    "device_id": "HDEVICE020",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV21": {
+    "nama_user": "User H21",
+    "device_id": "HDEVICE021",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV22": {
+    "nama_user": "User H22",
+    "device_id": "HDEVICE022",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV23": {
+    "nama_user": "User H23",
+    "device_id": "HDEVICE023",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV24": {
+    "nama_user": "User H24",
+    "device_id": "HDEVICE024",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV25": {
+    "nama_user": "User H25",
+    "device_id": "HDEVICE025",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV26": {
+    "nama_user": "User H26",
+    "device_id": "HDEVICE026",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV27": {
+    "nama_user": "User H27",
+    "device_id": "HDEVICE027",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV28": {
+    "nama_user": "User H28",
+    "device_id": "HDEVICE028",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV29": {
+    "nama_user": "User H29",
+    "device_id": "HDEVICE029",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV30": {
+    "nama_user": "User H30",
+    "device_id": "HDEVICE030",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV31": {
+    "nama_user": "User H31",
+    "device_id": "HDEVICE031",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV32": {
+    "nama_user": "User H32",
+    "device_id": "HDEVICE032",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV33": {
+    "nama_user": "User H33",
+    "device_id": "HDEVICE033",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV34": {
+    "nama_user": "User H34",
+    "device_id": "HDEVICE034",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV35": {
+    "nama_user": "User H35",
+    "device_id": "HDEVICE035",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV36": {
+    "nama_user": "User H36",
+    "device_id": "HDEVICE036",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV37": {
+    "nama_user": "User H37",
+    "device_id": "HDEVICE037",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV38": {
+    "nama_user": "User H38",
+    "device_id": "HDEVICE038",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV39": {
+    "nama_user": "User H39",
+    "device_id": "HDEVICE039",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV40": {
+    "nama_user": "User H40",
+    "device_id": "HDEVICE040",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV41": {
+    "nama_user": "User H41",
+    "device_id": "HDEVICE041",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV42": {
+    "nama_user": "User H42",
+    "device_id": "HDEVICE042",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV43": {
+    "nama_user": "User H43",
+    "device_id": "HDEVICE043",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV44": {
+    "nama_user": "User H44",
+    "device_id": "HDEVICE044",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV45": {
+    "nama_user": "User H45",
+    "device_id": "HDEVICE045",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV46": {
+    "nama_user": "User H46",
+    "device_id": "HDEVICE046",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV47": {
+    "nama_user": "User H47",
+    "device_id": "HDEVICE047",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV48": {
+    "nama_user": "User H48",
+    "device_id": "HDEVICE048",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV49": {
+    "nama_user": "User H49",
+    "device_id": "HDEVICE049",
+    "expired": "permanen",
+    "broadcast": ""
+  },
+  "HITV50": {
+    "nama_user": "User H50",
+    "device_id": "HDEVICE050",
     "expired": "permanen",
     "broadcast": ""
   }
